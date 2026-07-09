@@ -1,0 +1,121 @@
+CourseID,CourseName,CourseCategory,CourseType,CourseLevel
+C0001,Python for Data Analysis,Data Science,Instructor-Led,Beginner
+C0002,SQL for Analytics,Data Science,Self-Paced,Intermediate
+C0003,SQL for Analytics,Data Science,Instructor-Led,Advanced
+C0004,Machine Learning Foundations,Data Science,Self-Paced,Advanced
+C0005,SQL for Analytics,Data Science,Self-Paced,Beginner
+C0006,Data Visualization Masterclass,Data Science,Instructor-Led,Intermediate
+C0007,Machine Learning Foundations,Data Science,Instructor-Led,Intermediate
+C0008,Data Visualization Masterclass,Data Science,Self-Paced,Beginner
+C0009,Machine Learning Foundations,Data Science,Instructor-Led,Intermediate
+C0010,Machine Learning Foundations,Data Science,Self-Paced,Beginner
+C0011,Python for Data Analysis,Data Science,Self-Paced,Advanced
+C0012,SQL for Analytics,Data Science,Self-Paced,Beginner
+C0013,Data Visualization Masterclass,Data Science,Self-Paced,Beginner
+C0014,Python for Data Analysis,Data Science,Self-Paced,Advanced
+C0015,Machine Learning Foundations,Data Science,Instructor-Led,Beginner
+C0016,Java Programming Basics,Programming,Instructor-Led,Intermediate
+C0017,C++ Fundamentals,Programming,Cohort-Based,Beginner
+C0018,C++ Fundamentals,Programming,Self-Paced,Intermediate
+C0019,Java Programming Basics,Programming,Self-Paced,Intermediate
+C0020,Java Programming Basics,Programming,Self-Paced,Beginner
+C0021,C++ Fundamentals,Programming,Cohort-Based,Beginner
+C0022,Java Programming Basics,Programming,Cohort-Based,Intermediate
+C0023,C++ Fundamentals,Programming,Cohort-Based,Intermediate
+C0024,Full-Stack Web Development,Programming,Self-Paced,Intermediate
+C0025,Intro to Algorithms,Programming,Instructor-Led,Intermediate
+C0026,Full-Stack Web Development,Programming,Self-Paced,Beginner
+C0027,Java Programming Basics,Programming,Self-Paced,Advanced
+C0028,Full-Stack Web Development,Programming,Self-Paced,Beginner
+C0029,C++ Fundamentals,Programming,Instructor-Led,Intermediate
+C0030,Java Programming Basics,Programming,Cohort-Based,Intermediate
+C0031,Business Strategy 101,Business,Instructor-Led,Intermediate
+C0032,Entrepreneurship Essentials,Business,Instructor-Led,Beginner
+C0033,Operations Management,Business,Self-Paced,Beginner
+C0034,Operations Management,Business,Instructor-Led,Beginner
+C0035,Operations Management,Business,Self-Paced,Beginner
+C0036,Business Strategy 101,Business,Cohort-Based,Advanced
+C0037,Business Analytics,Business,Cohort-Based,Beginner
+C0038,Business Analytics,Business,Self-Paced,Beginner
+C0039,Business Analytics,Business,Instructor-Led,Intermediate
+C0040,Business Analytics,Business,Self-Paced,Beginner
+C0041,Business Strategy 101,Business,Self-Paced,Beginner
+C0042,Entrepreneurship Essentials,Business,Cohort-Based,Advanced
+C0043,Business Strategy 101,Business,Instructor-Led,Beginner
+C0044,Operations Management,Business,Instructor-Led,Beginner
+C0045,Business Strategy 101,Business,Self-Paced,Beginner
+C0046,UI/UX Design Principles,Design,Instructor-Led,Intermediate
+C0047,Graphic Design Basics,Design,Self-Paced,Beginner
+C0048,Figma for Beginners,Design,Instructor-Led,Intermediate
+C0049,UI/UX Design Principles,Design,Self-Paced,Beginner
+C0050,Graphic Design Basics,Design,Self-Paced,Intermediate
+C0051,Figma for Beginners,Design,Instructor-Led,Intermediate
+C0052,Figma for Beginners,Design,Instructor-Led,Beginner
+C0053,Design Thinking Workshop,Design,Self-Paced,Beginner
+C0054,Graphic Design Basics,Design,Cohort-Based,Beginner
+C0055,Graphic Design Basics,Design,Instructor-Led,Intermediate
+C0056,Design Thinking Workshop,Design,Self-Paced,Beginner
+C0057,UI/UX Design Principles,Design,Self-Paced,Beginner
+C0058,Figma for Beginners,Design,Self-Paced,Intermediate
+C0059,UI/UX Design Principles,Design,Self-Paced,Advanced
+C0060,Figma for Beginners,Design,Self-Paced,Intermediate
+C0061,Social Media Marketing,Marketing,Instructor-Led,Advanced
+C0062,Digital Marketing Fundamentals,Marketing,Instructor-Led,Advanced
+C0063,Digital Marketing Fundamentals,Marketing,Self-Paced,Beginner
+C0064,Social Media Marketing,Marketing,Instructor-Led,Intermediate
+C0065,Brand Management,Marketing,Instructor-Led,Beginner
+C0066,Social Media Marketing,Marketing,Self-Paced,Intermediate
+C0067,Digital Marketing Fundamentals,Marketing,Cohort-Based,Intermediate
+C0068,Digital Marketing Fundamentals,Marketing,Self-Paced,Advanced
+C0069,Social Media Marketing,Marketing,Self-Paced,Beginner
+C0070,Brand Management,Marketing,Instructor-Led,Intermediate
+C0071,Brand Management,Marketing,Cohort-Based,Beginner
+C0072,Brand Management,Marketing,Instructor-Led,Advanced
+C0073,Brand Management,Marketing,Self-Paced,Advanced
+C0074,Digital Marketing Fundamentals,Marketing,Self-Paced,Beginner
+C0075,Digital Marketing Fundamentals,Marketing,Self-Paced,Beginner
+C0076,Japanese Basics,Language Learning,Instructor-Led,Intermediate
+C0077,Japanese Basics,Language Learning,Self-Paced,Intermediate
+C0078,French Conversation Practice,Language Learning,Self-Paced,Intermediate
+C0079,French Conversation Practice,Language Learning,Instructor-Led,Intermediate
+C0080,Business English,Language Learning,Self-Paced,Intermediate
+C0081,French Conversation Practice,Language Learning,Self-Paced,Intermediate
+C0082,Japanese Basics,Language Learning,Instructor-Led,Beginner
+C0083,Spanish for Beginners,Language Learning,Instructor-Led,Intermediate
+C0084,Business English,Language Learning,Instructor-Led,Beginner
+C0085,Spanish for Beginners,Language Learning,Self-Paced,Beginner
+C0086,Spanish for Beginners,Language Learning,Self-Paced,Intermediate
+C0087,Business English,Language Learning,Self-Paced,Beginner
+C0088,Business English,Language Learning,Cohort-Based,Beginner
+C0089,Business English,Language Learning,Self-Paced,Intermediate
+C0090,Japanese Basics,Language Learning,Self-Paced,Intermediate
+C0091,Time Management Mastery,Personal Development,Self-Paced,Intermediate
+C0092,Time Management Mastery,Personal Development,Self-Paced,Beginner
+C0093,Mindfulness & Productivity,Personal Development,Cohort-Based,Beginner
+C0094,Time Management Mastery,Personal Development,Self-Paced,Beginner
+C0095,Public Speaking Confidence,Personal Development,Cohort-Based,Intermediate
+C0096,Mindfulness & Productivity,Personal Development,Cohort-Based,Intermediate
+C0097,Public Speaking Confidence,Personal Development,Cohort-Based,Intermediate
+C0098,Mindfulness & Productivity,Personal Development,Self-Paced,Beginner
+C0099,Career Planning,Personal Development,Self-Paced,Beginner
+C0100,Time Management Mastery,Personal Development,Instructor-Led,Intermediate
+C0101,Public Speaking Confidence,Personal Development,Instructor-Led,Beginner
+C0102,Mindfulness & Productivity,Personal Development,Instructor-Led,Intermediate
+C0103,Time Management Mastery,Personal Development,Self-Paced,Beginner
+C0104,Career Planning,Personal Development,Self-Paced,Intermediate
+C0105,Career Planning,Personal Development,Instructor-Led,Intermediate
+C0106,Personal Finance 101,Finance,Self-Paced,Beginner
+C0107,Financial Modeling,Finance,Self-Paced,Advanced
+C0108,Financial Modeling,Finance,Instructor-Led,Intermediate
+C0109,Financial Modeling,Finance,Instructor-Led,Advanced
+C0110,Investment Basics,Finance,Instructor-Led,Beginner
+C0111,Personal Finance 101,Finance,Cohort-Based,Beginner
+C0112,Investment Basics,Finance,Self-Paced,Beginner
+C0113,Financial Modeling,Finance,Self-Paced,Beginner
+C0114,Personal Finance 101,Finance,Self-Paced,Beginner
+C0115,Personal Finance 101,Finance,Self-Paced,Intermediate
+C0116,Accounting Fundamentals,Finance,Instructor-Led,Intermediate
+C0117,Accounting Fundamentals,Finance,Self-Paced,Advanced
+C0118,Financial Modeling,Finance,Self-Paced,Beginner
+C0119,Investment Basics,Finance,Instructor-Led,Intermediate
+C0120,Personal Finance 101,Finance,Self-Paced,Beginner
